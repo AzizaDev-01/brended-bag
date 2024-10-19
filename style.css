@@ -222,8 +222,6 @@ footer {
 .container {
    width: 1140px; 
   margin: auto;
-  display: flex;
-  justify-content: center;
 }
 .footer {
   width: 33.3%;
